@@ -1,0 +1,47 @@
+.red-flag-container {
+    background: #fff7f9;
+    padding: 20px;
+    border-radius: 14px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 0 10px rgba(200, 150, 170, 0.15);
+  }
+  
+  .radar-title {
+    font-size: 1.8rem;
+    color: #d81b60;
+    margin-bottom: 20px;
+  }
+  
+  .flag-group {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-left: 4px solid #f48fb1;
+    background-color: #fff0f5;
+    border-radius: 10px;
+  }
+  
+  .category-title {
+    font-size: 1.3rem;
+    color: #ad1457;
+    margin-bottom: 12px;
+  }
+  
+  .flag-checkbox {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    cursor: pointer;
+    gap: 10px;
+  }
+  
+  .flag-checkbox input[type="checkbox"] {
+    margin-top: 4px;
+    accent-color: #ec407a;
+  }
+  
+  .flag-label {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.4;
+  }
+  

@@ -1,0 +1,21 @@
+.background-sound-container {
+    margin: 16px auto;
+    text-align: center;
+  }
+  
+  .ambient-btn {
+    padding: 10px 20px;
+    background-color: #607D8B;
+    color: #FFF;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .ambient-btn:hover {
+    background-color: #455A64;
+  }
+  
+  
