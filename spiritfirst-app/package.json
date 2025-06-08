@@ -35,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Emotional Wellness Hub",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuirkyChanel/SOF-main.git"
+  },
+  "author": "Chanel King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuirkyChanel/SOF-main/issues"
+  },
+  "homepage": "https://github.com/QuirkyChanel/SOF-main#readme"
 }
